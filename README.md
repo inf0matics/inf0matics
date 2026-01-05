@@ -1,6 +1,6 @@
-### 👋 Hi, I’m @thespielplatz
+### 👋 Hi, I’m @Inf0matics
 
-I am currently working as a coder at [Satoshi Engineering](https://satoshiengineering.com/en/). My interests span from board games and digital games to automation and coding. Lately, I've been diving into hardware projects and exploring their vast potential.
+I am currently working as a freelancer and moderator. My interests span from board games and digital games to automation and coding. Lately, I've been diving into hardware projects and exploring their vast potential.
 
 ### ⚙️ My Work
 Some of my software projects can be found at [tsp.tools](https://tsp.tools/). Here's a brief overview of my projects:
